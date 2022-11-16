@@ -1,0 +1,13 @@
+body {
+    background: blue;
+    font-family: sans-serif;
+}
+
+.flex {
+    display:flex;
+    justify-content: center;
+}
+
+.flex .contantier {
+    border: 2px solid black;
+}
