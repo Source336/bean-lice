@@ -11,3 +11,9 @@ body {
 .flex .contantier {
     border: 2px solid black;
 }
+
+div.warning {
+    background-color: red;
+    border-radius: 10px;
+    margin: 8px;
+}
